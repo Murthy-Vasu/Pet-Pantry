@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pet Food </title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style1.css">
+
+</head>
+<body>
+    
+<!-- header section starts  -->
+
+<header class="header">
+
+    <a href="#" class="logo"> <i class="fas fa-paw"></i> shop </a>
+
+    <nav class="navbar">
+        <a href="#home">home</a>
+        <a href="#about">about</a>
+        <a href="#shop">shop</a>
+        <a href="#services">services</a>
+        <a href="#plan">plan</a>
+        <a href="#contact">contact</a>    
+        <a href="Azure.html">Azure</a>    
+    </nav>
+    
+
+    <div class="icons">
+        <a href="https://www.facebook.com/profile.php?id=100032790331874" class="fa fa-facebook"></a> 
+        <a href="#" class="fa fa-instagram"></a>
+        <a href="#" class="fas fa-map-marker-alt"></a>
+        <a href="#" class="fa fa-twitter"></a>
+        <div class="fas fa-bars" id="menu-btn"></div>
+        <a href="payment.html" class="fas fa-shopping-cart"></a>
+        <div class="fas fa-user" id="login-btn"></div>
+    </div>
+
+    <form action="" class="login-form">
+        <h3>sign in</h3>
+        <input type="email" name="" placeholder="enter your email" id="" class="box">
+        <input type="password" name="" placeholder="enter your password" id="" class="box">
+        <div class="remember">
+            <input type="checkbox" name="" id="remember-me">
+            <label for="remember-me">remember me</label>
+        </div>
+        <input type="submit" value="sign in" class="btn">
+        <div class="links">
+            <a href="#">forget password</a>
+            <a href="#">sign up</a>
+        </div>
+    </form>
+
+</header>
+
+<!-- header section ends -->
+ 
+    <main>
+    
+      <form action="#" method="post">
+
+        <h1>Payment form</h1>
+
+        <section>        
+          <label for="cc-number">Card number</label>
+          <!-- Allow for spaces and for shorter and longer payment card numbers -->
+          <input id="cc-number" name="cc-number" inputmode="numeric" autocomplete="cc-number" maxlength="50" pattern="[\d ]{10,30}" required>
+        </section>
+
+        <section>        
+          <label for="cc-name">Name on card</label>
+          <input id="cc-name" name="cc-name" autocomplete="cc-name" maxlength="30" pattern="[\p{L} \-\.]+" required>
+        </section>
+        
+        <section id="cc-exp-csc">      
+          <div>
+            <label for="cc-exp">Expiry date</label>
+            <input id="cc-exp" name="cc-exp" placeholder="MM/YY" maxlength="5" autocomplete="cc-exp" required>
+          </div> 
+          <div>
+            <label for="cc-csc">Security code</label>
+            <input id="cc-csc" name="cc-csc" inputmode="numeric" maxlength="3" autocomplete="cc-csc" required>
+            <div class="explanation">Back of card, last 3 digits</div>
+          </div>
+        </section>  
+
+
+        <button id="complete-payment">Complete payment</button>
+
+      </form>
+    
+    </main>
+
+    <section class="footer">
+
+      <img src="image/top_wave.png" alt="">
+  
+      <div class="share">
+          <a href="#" class="btn"> <i class="fab fa-facebook-f"></i> facebook </a>
+          <a href="#" class="btn"> <i class="fab fa-twitter"></i> twitter </a>
+          <a href="#" class="btn"> <i class="fab fa-instagram"></i> instagram </a>
+          <a href="#" class="btn"> <i class="fab fa-linkedin"></i> linkedin </a>
+          <a href="#" class="btn"> <i class="fab fa-github"></i> Github </a>
+      </div>
+  
+      <div class="credit"> created by  &copy;  M Vasu  |  All rights reserved! </div>
+  
+  </section>
+  
+  <!-- custom js file link  -->
+  <script src="js/script.js"></script>
+
+
+    
+    
+  </body>
+</html>
