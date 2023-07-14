@@ -11,29 +11,24 @@ Azure Microsoft Internship Project
 - Included the Azure health bot and static webapps.
 - Has collection of many web pages including Home, Meeting,Courses,Apply,Pages,Contact and Azure etc.
 ## Problem Statement
-Traditional education requires students to attend physical schools, which can be challenging for those living in remote or underserved areas and due to the  Fixed Timings and Schedules, which may not align with the individual needs and preferences of student. Attending physical schools often entails various expenses, including transportation, uniforms, textbooks, and sometimes tuition fees. These costs can be burdensome for families, particularly those with limited financial resources
+
+An Pet Pantry wants to build a sample Front End prototype website for their business as the online pets food delivery, industry has been growing at an incredible rate, and so have ecommerce challenges .Through this website customers can select the best pet pantry available near by them from Online with low cost .To build a whole website we have chosen Azure Cloud Platform. Build a website that have: Home,about,services,plan,contact along with Azure Bot Services deployed on Website for customers help.
 
 ## Problem Description
-The Edu Connect is a Front End prototype by using  HTML,CSS, java script and bootstrap CSS with Azure Bot services and GitHub. The core idea of this project is to create a interface between the students and teachers. By using this project Edu Connect leads to Accessibility and Personalized Learning Experience of the student 
 
-Traditional education requires students to attend physical schools, which can be challenging for those living in remote or underserved areas ,these costs can be burdensome for families, particularly those with limited financial resources and due to the  Fixed Timings and Schedules, which may not align with the individual needs and preferences of student.
+The Main Idea of the Project is to build an sample prototype E-Commerce Website with Azure Bot Services for a business company with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to book the pet pantry from online with solving problems of customer speedily via Azure Bot Services . This project deals with developing an e-commerce website for Online pet pantry booking. It provides the user with a catalog of different types of food available for booking pet pantry in the Website. In order to facilitate online pre booking the pet pantry a reservation option is available to the user. We are using Azure Technologies with GitHub to complete this project.
 
-The project Edu Connect provides the online classes for all the students at affordable prices.
-Edu Connect will overcome the Traditional education that requires students to attend physical schools, which can be challenging for those living in remote or underserved areas By using this website no need of physical appearance of the students and it is  low cost 
-
-The project Edu Connect will overcome the regular problems in present education system that are  Lack of Technological Integration ,Inequities & Inequalities, Fixed Timings and Schedule Limited Course Offerings .This project enhance the understanding capability of the students and it will be easy access to all the students. This project will meet the needs and fulfil the requirement of the problems 
-
-This project is done by using HTML,CSS, java script and bootstrap CSS with Azure Bot services and GitHub
 ## Azure Services Used:-
-- Azure Health Services
+- Azure Health Bot
 - Static Web Apps
 ## Home
-## Meeting
-## APPLY NOW
-## Pages
-## Courses
+## About
+## Shop
+## Service
+## Plan
 ## Contact
 ## AZURE
+
 ## TECH STACK
 
 - HTML
