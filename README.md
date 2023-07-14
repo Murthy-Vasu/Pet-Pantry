@@ -22,12 +22,20 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 - Azure Health Bot
 - Static Web Apps
 ## Home
+![1](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/6b8b8850-569f-4e5a-a0c6-b10d2e67f623)
 ## About
+![2](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/3506d523-96d5-4bda-8e46-aab1fe6a0d74)
 ## Shop
+![3](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/6c174359-65c2-4a10-947e-5e734aecc5f9)
 ## Service
+![4](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/ebfb9e8a-8085-4ae9-8ed8-0662372883a4)
 ## Plan
+![5](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/6596eaa1-21c9-41eb-8563-d68abc67d260)
 ## Contact
+![6](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/dddc66e1-2e09-495e-ac8b-1c2cd9350599)
 ## AZURE
+![7](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/c49aac4f-17b6-4b22-9279-ea375a19f80a)
+![8](https://github.com/Murthy-Vasu/Pet-Pantry/assets/132255730/89399846-a26f-4f2e-b6de-27376b9bab58)
 
 ## TECH STACK
 
