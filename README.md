@@ -1,7 +1,7 @@
 # PET PANTRY
 Azure Microsoft Internship Project
 - Project Link: https://mango-water-0cde6da00.3.azurestaticapps.net
-- Demo Video Link: 
+- Demo Video Link: https://youtu.be/fQHFQxWMd9A
 
 ## Features and Functionalities:-
 - Interactive and responsive with the students and teacher
